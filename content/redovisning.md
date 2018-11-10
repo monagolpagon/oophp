@@ -10,7 +10,13 @@ Detta innehåll är skrivet i markdown och du hittar innehållet i filen `conten
 Kmom01
 -------------------------
 
-Här är redovisningstexten
+Hur känns det att hoppa rakt in i objekt och klasser med PHP, gick det bra och kan du relatera till andra objektorienterade språk?
+
+
+Berätta hur det gick det att utföra uppgiften “Gissa numret” med GET, POST och SESSION?
+
+
+Har du några inledande reflektioner kring me-sidan och dess struktur?
 
 
 

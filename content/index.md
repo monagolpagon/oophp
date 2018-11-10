@@ -3,23 +3,16 @@ title: "Min fina titel"
 ---
 Min me-sida i kursen oophp
 =========================
+[FIGURE src="image/me.jpg?w=500"]
+Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv.
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+Mitt namn är Mona Golpagon. Jag är född och uppväxt i Malmö, men hösten 2014 flyttade jag till Karlskrona för att läsa till Civilingenjör inom industriell ekonomi. Tack vare mitt brinnande intresse för matematik så tyckte jag att utbildningen var riktigt rolig. År 2016 fick jag välja inriktning till mina studier och då valde jag att läsa lite mer av IT, ett område jag aldrig jobbat med tidigare.
 
-[FIGURE src="image/me.jpg?w=500" caption="Bild på mig"]
+Till min stora förvåning var det otroligt roligt och jag föll för ämnet direkt. Vid denna tiden hade antalet matematiska kurser i mitt program minskat drastiskt, så för att hålla min studiegång rolig och utmanande bestämde jag mig för att börja läsa till Webbprogrammerare till hösten 2017.
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Våren 2018 fick jag möjligheten att studera i Kina över en terminen, jag bestämde mig för att göra det och det var bland de bästa besluten jag har fattat. Efter många roliga äventyr och en massa nya erfarenheter är jag nu tillbaka i Karlskrona hösten 2018 och ser framemot att avsluta mitt sista studieår på ett starkt och minnesvärt sätt.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+På min fritid älskar jag att baka stora bröllopstårtor, men jag brinner även för att träna stenhårt. Kort och gott så är jag en tjej med många spridda intressen och ambitioner i livet. På grund av detta har jag väldigt svårt för att över huvud taget kunna tänka mig var jag kommer hamna efter examen men förhoppningsvis blir det något spännande!
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
 
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching och sedan turfing. Nu ligger jag lågt med hobbies, men något kanske dyker upp...?
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+/Mona

@@ -11,4 +11,5 @@ namespace Anax\View;
 
 ?>
 
-FOOTER
+Mona Golpagon har varit en student på BTH sedan 2014 och lär ta examen 2019.
+Det är möjligt att nå henne per email, mona.golpagoon@gmail.com
